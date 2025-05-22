@@ -1,5 +1,5 @@
 <h1>Portfolio Capstone Project</h1>
-<p>For this capstone, we were to create a Travel Agency page using only HTML</p>
+<p>For this project I made a multi-page Travel Agency page using only HTML</p>
 <a href="https://backusa920.github.io/Travel-Agency-Blog/">
 
   <img src="./assets/Screenshot.png" width="500">
