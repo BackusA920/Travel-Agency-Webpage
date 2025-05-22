@@ -2,7 +2,7 @@
 <p>For this project I made a multi-page Travel Agency page using only HTML</p>
 <a href="https://backusa920.github.io/Travel-Agency-Webpage/>
 
-  <img src="./assets/Screenshot.png" width="500">
+  <img src="assets/Screenshot.png" width="500">
 </a>
 <br><br>
 <a href="https://backusa920.github.io/Travel-Agency-Blog/">
