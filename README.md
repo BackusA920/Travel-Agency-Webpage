@@ -1,6 +1,6 @@
 <h1>Portfolio Capstone Project</h1>
 <p>For this project I made a multi-page Travel Agency page using only HTML</p>
-<a href="https://backusa920.github.io/Travel-Agency-Webpage/>
+<a href="https://backusa920.github.io/Travel-Agency-Webpage/">
 
   <img src="https://raw.githubusercontent.com/BackusA920/Travel-Agency-Webpage/refs/heads/main/assets/Screenshot.png" width="500">
 </a>
